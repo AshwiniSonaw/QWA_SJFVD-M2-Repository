@@ -39,9 +39,9 @@ public class ImplicitWait {
 		
 				g.findElement(By.xpath("//input[@type='submit']")).click();
 				
-				g.findElement(By.xpath("//a[text()='Logout']")).click();
+			//	g.findElement(By.xpath("//a[text()='Logout']")).click();
 
-				g.quit();
+			//	g.quit();
 			}
 
 }
